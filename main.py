@@ -10,7 +10,7 @@ Program_Path_FE = "D:\JOGOS_COMPLEMENTOS\mods_fifa\FIFA.23.LE.v23.1.3.6\Launcher
 os.startfile(Program_Path_MM)
 os.startfile(Program_Path_FE)
 
-# PASSING THROUGH THE ADMIN QUESTION
+# PASSING THROUGH THE USER ACCOUNT CONTROL
 time.sleep(2)
 pyautogui.press('left')
 pyautogui.press('enter')
